@@ -1,7 +1,3 @@
----
-title: "Credit score model"
-output: html_document
----
 
 <div align="center">
 <img src="img\\Score.jpg" />
